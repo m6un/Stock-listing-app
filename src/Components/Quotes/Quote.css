@@ -1,0 +1,22 @@
+.header {
+    display: grid;
+    grid-template-columns: 2fr 0.2fr 0.2fr;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sortButton {
+    width: 80px;
+    height: 30px;
+    margin-left: 4px;
+    outline: none;
+    border: none;
+    background-color: rgb(255, 241, 214);
+    border-radius: 5px;
+}
+
+.sortButton:hover {
+    background-color: rgba(251, 119, 63, 1);
+    cursor: pointer;
+}
