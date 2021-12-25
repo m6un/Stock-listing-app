@@ -1,4 +1,4 @@
-# insta-chat
+# Stock listing App
 ### [Live Site](https://m6un.github.io/Stock-listing-app/)
 ### ScreenShots
 ![Chat Application](./Screenshots/s1.png)
